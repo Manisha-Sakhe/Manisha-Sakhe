@@ -1,7 +1,7 @@
- <h1 align="center"> Hey there I'm Pavankumar<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> </h1>
+ <h1 align="center"> Hey there I'm Manisha<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> </h1>
 <br />
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> </br>
-A passionate frontend developer from Banglore. I love exploring the world of technology and constantly learning new things.
+A passionate Automation Tester from Banglore. I love exploring the world of technology and constantly learning new things.
  
 💻 What I'm up to:
 - Currently working on ReactJs based projects and also on NodeJs.
@@ -26,11 +26,11 @@ A passionate frontend developer from Banglore. I love exploring the world of tec
 
 
 
-| <a href="https://github.com/pavankumar106/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pavankumar106&theme=tokyonight&hide=contribs,issues&show_icons=true&hide_border=true&background=false" alt="Pavan's github stats" /></a> | <a href="https://github.com/pavankumar106/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumar106&theme=tokyonight&layout=compact&hide_border=true" /></a> |  [![GitHub Streak](https://streak-stats.demolab.com/?user=pavankumar106&theme=tokyonight&hide&hide=contribs,issues&show_icons=true&hide_border=true)](https://git.io/streak-stats) |
+| <a href="https://github.com/manisha-sakhe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=manisha-sakhe&theme=tokyonight&hide=contribs,issues&show_icons=true&hide_border=true&background=false" alt="manisha's github stats" /></a> | <a href="https://github.com/manisha-sakhe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisha-sakhe&theme=tokyonight&layout=compact&hide_border=true" /></a> |  [![GitHub Streak](https://streak-stats.demolab.com/?user=manisha-sakhe&theme=tokyonight&hide&hide=contribs,issues&show_icons=true&hide_border=true)](https://git.io/streak-stats) |
 | ------------- | ------------- |------------- |
 
 💬 Let's connect:
-- 📖 LinkedIn: [Pavankumar Guttedar](https://www.linkedin.com/in/pavankumar-guttedar-1027631b2/)
-- 📷 Instagram : [i_pavan_goud](https://www.instagram.com/i_pavan_goud/)
+- 📖 LinkedIn: [Manisha Sakhe](https://www.linkedin.com/in/[](https://www.linkedin.com/in/manisha-sakhe-a71429210))
+ 
 
 🤝 Feel free to explore my repositories and don't hesitate to reach out for any questions or collaboration opportunities. Happy coding!
